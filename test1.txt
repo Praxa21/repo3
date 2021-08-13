@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C007-D1C2
+
+ Directory of C:\Users\ujjwa\OneDrive\Desktop\project\project1
+
+08/13/2021  01:17 PM    <DIR>          .
+08/13/2021  01:17 PM    <DIR>          ..
+08/13/2021  01:17 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  442,839,519,232 bytes free
